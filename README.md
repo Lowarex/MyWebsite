@@ -1,6 +1,6 @@
-# Lowa's Blog :link: https://lowarex.github.io/mywebsite 
-### :page_facing_up: [1](https://lowarex.github.io/mywebsite/tag.html) 
+# Lowa's Blog :link: https://Lowarex.github.io/MyWebsite 
+### :page_facing_up: [1](https://Lowarex.github.io/MyWebsite/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 60 
-### :alarm_clock: 2024-08-09 14:41:30 
+### :alarm_clock: 2024-08-09 14:45:26 
 ### Powered by :heart: [Gmeek](https://github.com/Meekdai/Gmeek)
